@@ -1,3 +1,7 @@
+## Welcome to Test Page
+
+Try [recipes](/webstorm1/2.recipes.html)!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ivandeex/ivandeex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
